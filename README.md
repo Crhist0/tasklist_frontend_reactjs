@@ -2,6 +2,10 @@
 
 Projeto ReactJs construido com base de admin app com fuse para trabalho do módulo 'programação front-end 2'
 
+## Demo
+
+Acesse a demo (neste link)[https://tasklist-frontend-react.herokuapp.com/login].
+
 ## Run Locally
 
 Utilizar npm, yarn está descontinuado no projeto.
